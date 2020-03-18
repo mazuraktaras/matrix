@@ -6,8 +6,8 @@ import numpy
 # Assign variables
 
 # The matrix 50K x 50K values
-rows = 50
-columns = 50
+rows = 50000
+columns = 50000
 
 # Files to store results
 unsorted_file = 'matrix_unsorted.csv'
